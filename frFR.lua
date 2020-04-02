@@ -10,7 +10,7 @@ Example:
 	
 The spaces are not needed. They are just for alignment.
 ]]
--- German translations go here
+-- French translations go here
 -- MUI Chat
 L["Hello!"]							= "Bonjour!"
 L["Character"]						= "Personnage";
